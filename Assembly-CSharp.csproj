@@ -50,6 +50,7 @@
      <Compile Include="Assets\GameManager.cs" />
      <Compile Include="Assets\HUD.cs" />
      <Compile Include="Assets\Pad.cs" />
+     <Compile Include="Assets\SideWalls.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
